@@ -26,11 +26,11 @@ Some of the texts come very close to fiction or are fictional, but are still bas
 
 Dr. Kelley provides extensive insights into how she taught another course _[21L.501 The American Novel: Stranger and Stranger](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013)_, which includes pages on:
 
-*   [Motivation and Organization of the Course](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/content/pages/instructor-insights/motivation-and-organization-of-the-course) 
-*   [Choice of Novels](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/content/pages/instructor-insights/choice-of-novels)
-*   [Digital Tools](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/content/pages/instructor-insights/digital-tools)
-*   [Additional Class Features](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/content/pages/instructor-insights/additional-class-features)
-*   [Teaching at MIT](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/content/pages/instructor-insights/teaching-at-mit)
+*   [Motivation and Organization of the Course](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/motivation-and-organization-of-the-course) 
+*   [Choice of Novels](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/choice-of-novels)
+*   [Digital Tools](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/digital-tools)
+*   [Additional Class Features](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/additional-class-features)
+*   [Teaching at MIT](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/teaching-at-mit)
 
 Curriculum Information
 ----------------------
